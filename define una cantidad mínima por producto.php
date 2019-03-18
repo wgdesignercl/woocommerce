@@ -45,4 +45,3 @@ function set_min_quantity_per_product() {
         }
     }
 }
-view raw
